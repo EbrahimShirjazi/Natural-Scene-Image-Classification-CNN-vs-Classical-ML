@@ -90,3 +90,8 @@ Adam optimizer, 5 epochs, batch size 32.
 
 Built as part of a group assignment in the NTNU course IT3212 (Autumn 2025). The image-classification part in this
 repository is my own work.
+
+## Related projects
+
+- [Multivariate-Retail-Demand-Forecasting](https://github.com/EbrahimShirjazi/Multivariate-Retail-Demand-Forecasting): forecasting daily sales with time-series features, ensembles and transfer learning
+- [Retail-Data-Preprocessing-Pipeline](https://github.com/EbrahimShirjazi/Retail-Data-Preprocessing-Pipeline): cleaning and preparing the Favorita store-sales data
