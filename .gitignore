@@ -1,0 +1,8 @@
+# Dataset (download from Kaggle, see README)
+data/
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
